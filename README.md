@@ -1,2 +1,2 @@
-# CoderHouse-Data-Analitics
-Material del curso de Data Analitics de CorderHouse
+# CoderHouse-Data-Analytics
+Material del curso de Data Analytics de CorderHouse
